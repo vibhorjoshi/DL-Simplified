@@ -181,7 +181,7 @@ typing-extensions==3.7.4.3
 urdfdom-py==0.4.4
 urllib3==1.26.18
 wcwidth==0.2.12
-Werkzeug==2.0.3
+Werkzeug==3.1.6
 wiimote==1.14.0
 wrapt==1.12.1
 xacro==1.13.9
